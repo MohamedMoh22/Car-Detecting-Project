@@ -44,6 +44,5 @@ A short instruction telling you what to do
 
 A green button that opens a file picker to choose your video
 
-
 2. Car Detection Preview
 A sample frame from a video will show how the application highlights detected cars by drawing labeled green rectangles around them.
