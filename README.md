@@ -23,3 +23,27 @@ This project uses the following Python libraries:
 - `opencv-python`
 - `Pillow`
 - `tkinter`
+🔧 How It Works
+This application uses artificial intelligence to automatically detect cars in a video. It provides a simple graphical interface that anyone can use, even without programming knowledge.
+
+When you open the program, a window appears with a button.
+
+You click the “Browse Video” button to choose a video file from your device.
+
+The program then plays the video and draws green boxes around any cars it finds.
+
+It’s fast, fully automatic, and easy to use.
+
+🖼 Visual Documentation
+1. Graphical User Interface (GUI)
+The interface includes:
+
+A title at the top of the window
+
+A short instruction telling you what to do
+
+A green button that opens a file picker to choose your video
+
+
+2. Car Detection Preview
+A sample frame from a video will show how the application highlights detected cars by drawing labeled green rectangles around them.
